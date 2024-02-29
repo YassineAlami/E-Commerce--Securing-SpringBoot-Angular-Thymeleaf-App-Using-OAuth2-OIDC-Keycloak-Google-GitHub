@@ -5,10 +5,10 @@
 </p>
   
 **`
-The goal of this app is to develop 2 frontends, a server-side rendering and a client-side rendering, along with a Spring Boot back end using the distributed Micro Services architecture.<br>
-We'll secure all that is to secure in our app using OAuth2 with providers the likes of Keycloak, Google, Gmail, GitHub, and OpenID Connect.<br>
-As we said earlier, there will be two front ends: one using Thymeleaf and the second using Angular. This will help us explore the differences in securing server-side rendering and client-side rendering. <br>
-For the authentication, OAuth2 will be implemented for examples of authentication via Google, GitHub, and Keycloak<br>
+The goal of this app is to develop 2 frontends, a server-side rendering and a client-side rendering, along with a Spring Boot back end using the distributed Micro Services architecture.
+We'll secure all that is to secure in our app using OAuth2 with providers the likes of Keycloak, Google, Gmail, GitHub, and OpenID Connect.
+As we said earlier, there will be two front ends: one using Thymeleaf and the second using Angular. This will help us explore the differences in securing server-side rendering and client-side rendering. 
+For the authentication, OAuth2 will be implemented for examples of authentication via Google, GitHub, and Keycloak
 `**
 #
 
