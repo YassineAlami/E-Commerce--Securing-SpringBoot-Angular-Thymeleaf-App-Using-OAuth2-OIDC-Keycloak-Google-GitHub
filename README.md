@@ -1,4 +1,4 @@
-![Screenshot (1777)](https://github.com/YassineAlami/E-Commerce-App-Securing-Angular-And-Thymeleaf-Fronts-Using-OAuth2-OIDC-Keycloak-Google-GitHub../assets/40896739/37a89305-ac4f-4a69-9713-6bd14bd2568d)###
+###
 
 <p align="center">
   <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Overview&center=true&vCenter=true"/></a>
