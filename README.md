@@ -17,8 +17,8 @@ For the authentication, OAuth2 will be implemented for examples of authenticatio
 </p>
 
 <p align="center">  
-  <p><img src="https://github.com/YassineAlami/E-Commerce-App-Securing-Angular-And-Thymeleaf-Fronts-Using-OAuth2-OIDC-Keycloak-Google-GitHub../assets/40896739/46b0bcc0-d0fa-4f47-a076-f7d9a53b28bb" alt="Screenshot (1777)"></p>
-</p>
+<p><img src="https://github.com/YassineAlami/Securing-E-banking-Microservice-using-OAuth2-OIDC-with-Keycloak-Spring-Boot-BackEnd-Angular-frontEnd/assets/40896739/c8cd4b5a-5550-4ff7-b1c2-4b2d04f93e49" alt="Screenshot (1777) "></p>
+
 
 <hr>
 
